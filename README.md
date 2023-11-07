@@ -2,7 +2,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/MrManito/MrManito/img/header.gif">
+<img src="img/header.gif">
 
 <!-- VISTAS DEL PERFIL -->
 <h1 align="center">
@@ -16,11 +16,9 @@ Hi, I'm Andres Gorgona!
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently finishing my carreer at [Instituto Tecnológico de Costa Rica](https://www.tec.ac.cr/)
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently learning UNITY
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
-
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **gandresgv16@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
@@ -42,7 +40,7 @@ Hi, I'm Andres Gorgona!
 </div>
 
 <!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="img/header.gif">
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
